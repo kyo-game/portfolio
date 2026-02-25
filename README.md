@@ -1,8 +1,5 @@
 # portfolio
 
-KYO-GAME（個人開発）実績まとめ  
-iOSアプリ（App Store）/ Webサイト
-
 ## App Storeリリースアプリ
 - Card Sort（カードを並べ替えて同じカードを揃えるゲーム）
   - https://apps.apple.com/jp/app/id6759159343
