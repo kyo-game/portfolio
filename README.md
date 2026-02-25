@@ -11,6 +11,7 @@
 
 - クイズ王国（様々なジャンルの2択、3択、4択クイズアプリ）
   - https://apps.apple.com/jp/app/id6752301663
+    - <img src="images/quizkingdom.png" width="320">
 
 - ヘッズアップポーカー（自作AIと1対1のトーナメント形式のテキサスホールデムポーカーゲーム）
   - https://apps.apple.com/jp/app/id6747348542
@@ -22,6 +23,7 @@
 
 - トナメモ（ポーカーのハンドメモ、収支計算日記アプリ）
   - https://apps.apple.com/jp/app/id6755584492
+    - <img src="images/tonamemo-screenshot.png" width="320">
 
 - GymJudge（体操競技の動画に採点を埋め込むアプリ）
   - https://apps.apple.com/jp/app/gymjudge/id6751038433
