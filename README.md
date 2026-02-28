@@ -33,5 +33,8 @@
 - KYO-GAME
   - https://kyo-game.com/
 
+- 蕎麦屋サンプルサイト
+  - https://kamakura-mensai.com/soba_index.html
+
 - 鎌倉麺ぶろぐ
   - https://www.kamakura-men-blog.com/
